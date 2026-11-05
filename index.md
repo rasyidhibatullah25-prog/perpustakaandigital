@@ -13,5 +13,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [RUMAH KETIGAKU PERPUSTAKAAN](ebook/RUMAH KETIGAKU PERPUSTAKAAN.pdf) – Prasetyo Adi (2019)
 10. [DESAIN DAN STANDAR PERPUSTAKAAN DIGITAL](ebook/DESAIN DAN STANDAR PERPUSTAKAAN DIGITAL.pdf) – Setyo Edy (2010)
 11. [Digital Marketing: A Review](ebook/Digital Marketing: A Review.pdf) – Vaibhava Desai (2019)
-12. Ringkasan Pemaparan UGC](ebook/Ringkasan Pemaparan UGC.pdf) – Rasyid Evan (2026)  
+12. [Ringkasan Pemaparan UGC](ebook/Ringkasan Pemaparan UGC.pdf) – Rasyid Evan (2026)  
 *Powered by GitHub Pages*
